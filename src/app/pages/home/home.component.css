@@ -1,0 +1,163 @@
+.banner
+{
+    background-image: url("../../../assets/Images/smart ict.jpg");
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.btn01
+{
+    color: #ffb300;
+    margin-top: 400px;
+    margin-left: 150px;
+    padding: 20px;
+    font-size: 20px;
+}
+.content
+{
+    top: 12%;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+.content h2
+{
+    color: #FFFFFF;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.txt002
+{
+    margin: 50px;
+    text-align: center;
+}
+
+.txt02
+{
+    margin: 50px;
+    text-align: center;
+}
+
+.txt2
+{
+    margin: 20px;
+    text-align: center;
+}
+
+.textcontainer1{
+    background-image: url("../../../assets/Images/cont.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+    background-position: center; 
+}
+
+.btn6
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}    
+.btn7
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn8
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn9
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn10
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn11
+{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn6:hover
+{
+    background-color: #ffb300;
+}
+.btn7:hover
+{
+    background-color: #ffb300;
+}
+.btn8:hover
+{
+    background-color: #ffb300;
+}
+.btn9:hover
+{
+    background-color: #ffb300;
+}
+.btn10:hover
+{
+    background-color: #ffb300;
+}
+.btn11:hover
+{
+    background-color: #ffb300;
+}
